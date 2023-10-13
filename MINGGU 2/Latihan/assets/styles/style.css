@@ -1,0 +1,29 @@
+h1 {
+  font-weight: 600px;
+  text-decoration: underline;
+}
+.judul {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+p {
+  font-size: 20px;
+  color: green;
+  background-color: aqua;
+}
+span {
+  color: blueviolet;
+}
+.content {
+  background-color: aqua;
+  box-shadow: rgb(6, 41, 32) 10px 13px 0px -1px;
+}
+#judul1,
+#judul2 {
+  color: red;
+}
+.container2 > .content {
+  background-color: pink;
+}
+.box {
+}
